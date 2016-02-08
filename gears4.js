@@ -95,11 +95,6 @@ jQuery(document).ready(function($) {
         }
       });
     }
-
     stage.update();
-
-
   }
-
-
 });
